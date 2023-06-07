@@ -1,0 +1,11 @@
+-- CREATE TABLE user_address (
+--     id  INTEGER PRIMARY KEY NOT NULL,
+--     user_id NOT NULL,
+--     address_line VARCHAR(50) NOT NULL,
+--     country VARCHAR(50) NOT NULL,
+--     postal_code VARCHAR(50) NOT NULL,
+--     city VARCHAR(30) NOT NULL,
+--     fax_phone VARCHAR(50) NOT NULL
+-- ); 
+
+-- SELECT * FROM user_address;
